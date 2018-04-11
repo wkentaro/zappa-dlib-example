@@ -9,7 +9,7 @@ which can automatically deploy pre-build packages for projects with C backends (
 And dlib is included in lambda-packages [here](https://github.com/Miserlou/lambda-packages/tree/master/lambda_packages/dlib).  
 But I can't used it on AWS lambda in actual.  
 
-I created an issue [here](https://github.com/Miserlou/Zappa/issues/1477) to get solution for this.
+I created an issue, [Miserlou/Zappa#1477](https://github.com/Miserlou/Zappa/issues/1477), to get solution for this.
 
 
 ## Usage
